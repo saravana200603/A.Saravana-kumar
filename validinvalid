@@ -1,0 +1,16 @@
+int a; valid
+int@;invalid
+flote_ valid
+flote 123;invalid
+char hello world;valid
+int int; invalid
+int INT; valid
+int intint; valid
+flote int1; valid
+flote f@; invalid
+char ch;valid
+char CHAR; valid
+char inflote;valid
+int hi every one goodafternoon;valid
+int hi_every_one_good_afernoon;valid
+int hifeveryonegoodafternoon;valid
